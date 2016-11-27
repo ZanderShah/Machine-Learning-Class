@@ -1,5 +1,5 @@
 # Machine-Learning-Class
-Assignments for Andrew Ng's machine learning online course! https://www.coursera.org/learn/machine-learning/home/welcome
+Assignment solutions for Andrew Ng's machine learning online course! https://www.coursera.org/learn/machine-learning/home/welcome
 
 ex1 => Linear Regression
 
